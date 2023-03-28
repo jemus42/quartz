@@ -1,7 +1,6 @@
 ---
 title: "fwelnet"
 tags:
- - regulariuzation
  - regression
 ---
 

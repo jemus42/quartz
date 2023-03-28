@@ -1,6 +1,5 @@
 ---
 title: "starship 🚀"
-categories: null
 tags:
   - prompt
   - customization
