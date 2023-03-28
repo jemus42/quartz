@@ -6,4 +6,4 @@ tags:
 
 Good ol' $\mathbf{X}(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{Y}$ amirite
 
-Can be [[ML/techniques/Regularization|regularized]]
+Can be [[notes/ML/Regularization|regularized]]

@@ -6,7 +6,7 @@ tags:
  - regularization
 ---
 
-A [[ML/techniques/Regularization]] technique used form [[notes/ML/Linear Regression]] to [[deep learning]].
+A [[notes/ML/Regularization]] technique used form [[notes/ML/Linear Regression]] to [[deep learning]].
 
 
 Spawned [[notes/ML/fwelnet]].

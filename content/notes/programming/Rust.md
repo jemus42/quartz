@@ -10,8 +10,11 @@ tags:
 - [The Book, but interactive][book-brown]
 - [Rust by Example][Rust by Example]
 - [Rustlings][rustlings]
+- [Faster than lime](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)'s neat post(s)
+- [This Week in Rust](https://this-week-in-rust.org/)
+- [Read Rust](https://readrust.net)
 
-> [!tip] Recommended Workflow
+> [!tip] Recommended Beginner Workflow
 >  
 > By at least one YouTube person anyway:
 > 
@@ -35,6 +38,22 @@ Via [rustup], `curl`'ing into `sh` like madlads:
 ```shell {title="Piping into sh lol"}
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+
+
+## Crates I should check out I guess
+- `clap`: CLI interfaces
+- `serde`: Getting data in & out (see also `serde_json`)
+	- `csv` either additionally useful or superfluous?
+- Web stuff?
+	- [`leptos`](https://github.com/leptos-rs/leptos)
+	- [`yew`](https://yew.rs/)
+
+
+## Tools written in Rust to take a peek in
+
+- [[notes/tools/starship]]
+- [[rig]]
+- [That YouTube ISG thing](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - archived now, so I guess it was fun while it lasted
 
 
 [The Book]: https://doc.rust-lang.org/book

@@ -1,5 +1,0 @@
----
-title: "regularization"
-tags: 
-  - ML
----
