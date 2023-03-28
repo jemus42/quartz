@@ -1,10 +1,10 @@
 ---
-title: "Shell"
+title: "Shell Scripting"
 tags:
   - programming
 ---
 
-## Scripting
+I always look up the same things again and again and/or refer to old scripts where I've done the looking up. Might as well start dumping some things here.
 
 ## Arrays
 

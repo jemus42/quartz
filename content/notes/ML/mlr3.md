@@ -1,9 +1,9 @@
 ---
 title: "mlr3"
 tags:
- - machine-learning
+ - ML
  - r-package
  - framework
 ---
 
-[[notes/programming/R]] package / framework for ML stuff.
+[[notes/programming/R]] package / framework for [[ML]] stuff.
