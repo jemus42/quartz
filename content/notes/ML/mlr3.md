@@ -6,4 +6,4 @@ tags:
  - framework
 ---
 
-[[notes/programming/R]] package / framework for [[ML]] stuff.
+[[notes/programming/R]] package / framework for [[notes/ML/ML]] stuff.

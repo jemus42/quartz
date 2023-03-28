@@ -23,7 +23,7 @@ tags:
 - [Are we web yet?](https://www.arewewebyet.org/)
 - [Are we GUI yet?](https://www.areweguiyet.com/)
 - [Are we learning yet?](https://www.arewelearningyet.com/)
-	- Looks like theres [[ML]] stuff? https://www.arewelearningyet.com/decision-trees/
+	- Looks like theres [[notes/ML/ML]] stuff? https://www.arewelearningyet.com/decision-trees/
 	- Some projects are... not in good shape https://github.com/maciejkula/rustlearn
 		- ![[assets/Screenshot 2023-03-28 at 01.09.21.jpg]]
 
