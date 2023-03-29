@@ -2,7 +2,7 @@
 title: "mlr3"
 tags:
  - ML
- - r-package
+ - R-package
  - framework
 ---
 

@@ -52,7 +52,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ## Tools written in Rust to take a peek in
 
 - [[notes/tools/starship]]
-- [[rig]]
+- [[notes/tools/rig]]
 - [That YouTube ISG thing](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - archived now, so I guess it was fun while it lasted
 
 

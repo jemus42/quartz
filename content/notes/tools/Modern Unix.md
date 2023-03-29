@@ -2,7 +2,6 @@
 title: "Modern Unix"
 tags: 
   - shell
-  - dev
 ---
 
 - Main list [on GitHub](https://github.com/ibraheemdev/modern-unix)

@@ -1,0 +1,5 @@
+---
+title: "rig"
+tags: 
+ - R
+---

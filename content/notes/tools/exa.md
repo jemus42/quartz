@@ -1,7 +1,8 @@
 ---
 title: "exa"
 tags: 
- - tools
+  - tools
+  - shell
 ---
 
 `exa` is neat as it shows pretty colors, optional [[git]] status, and icons.
