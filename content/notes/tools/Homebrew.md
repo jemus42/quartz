@@ -2,6 +2,7 @@
 title: "Homebrew"
 tags: 
   - package manager
+  - tools
 ---
 
 Apparently either beloved or hated, depending on.. things I haven't quite looked into and probably would rather avoid.

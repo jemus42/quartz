@@ -9,3 +9,6 @@ tags:
 
 
 - Installing [[notes/tools/Modern Unix]] may require [[notes/tools/Homebrew]] for many tools, at least it makes it easier and/or gets more recent versions.
+
+
+I like [[notes/tools/nala]] as an alternative `apt` frontend.

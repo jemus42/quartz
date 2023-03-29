@@ -2,6 +2,7 @@
 title: "Modern Unix"
 tags: 
   - shell
+  - tools
 ---
 
 - Main list [on GitHub](https://github.com/ibraheemdev/modern-unix)
@@ -13,5 +14,8 @@ tags:
 - `dust`, `diskus`, and `duf`
 - `zoxide` and `broot`
 - For [[docker]]:
-	- `lazydocker`
-	- `ctop`
+	- [`lazydocker`](https://github.com/jesseduffield/lazydocker), no Ubuntu package unfortunately, [[Golang]] -based
+	- [`ctop`](https://github.com/bcicen/ctop)
+
+Haven't given [`mcfly`](https://github.com/cantino/mcfly) a proper go yet but might be nice.
+> TL;DR: an upgraded `ctrl-r` where history results make sense for what you're working on right now.
