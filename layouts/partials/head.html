@@ -178,10 +178,10 @@
           )
         }
       {{end}}
-      
+
       // analytics
       function clickHandler(evt) {
-        const target = evt.target 
+        const target = evt.target
         const classNames = target.className.split(" ")
         const broken = classNames.includes("broken")
         const internal = classNames.includes("internal-link")
@@ -249,4 +249,7 @@
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
   <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
   <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+  <!-- umami -->
+  <script async defer data-website-id="70c20348-3653-4b47-8cee-6f3a1ad83004" src="https://umami.jemu.name/umami.js"></script>
 </head>
