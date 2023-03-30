@@ -5,7 +5,7 @@ tags:
   - shell
 ---
 
-`exa` is neat as it shows pretty colors, optional [[git]] status, and icons.
+`exa` is neat as it shows pretty colors, optional [[notes/tools/git]] status, and icons.
 It's part of the [[notes/tools/Modern Unix]] stack, supplementing the venerable `ls`.
 
 I have it aliased to show `git` icons by default, because that's kind of the selling feature in my case:

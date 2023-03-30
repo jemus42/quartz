@@ -24,7 +24,7 @@ do
 done
 ```
 
-### Case
+## Case
 
 ```shell
 case expression in
