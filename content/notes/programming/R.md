@@ -6,4 +6,4 @@ tags:
 
 This is only a test
 
-[[notes/tools/rig]] [[notes/programming/renv]] [[RSPM]] [[CRAN]] 
+[[notes/tools/rig]] [[notes/tools/renv]] [[RSPM]] [[CRAN]] 

@@ -11,7 +11,7 @@ tags:
 ## Honorary Mentions
 - [[lsd]], [[notes/tools/exa]]
 - [[ripgrep]], [[fd]], [[sd]]
-- [[notes/tools/git-delta]]
+- [[notes/tools/delta]]
 - `dust`, `diskus`, and `duf`
 - `zoxide` and `broot`
 - For [[docker]]:

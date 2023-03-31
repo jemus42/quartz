@@ -15,7 +15,7 @@ At some place I'd need to collect useful commands, like adding the following to 
 
 Because it's useful to `git adog` sometimes.
 
-Or setting up [[notes/tools/git-delta]] for nicer diffs:
+Or setting up [[notes/tools/delta]] for nicer diffs:
 
 ```
 [pager]

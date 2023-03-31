@@ -12,3 +12,6 @@ tags:
 
 
 I like [[notes/tools/nala]] as an alternative `apt` frontend.
+
+
+- [[Unattended Upgrades]]
