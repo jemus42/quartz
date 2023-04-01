@@ -11,7 +11,7 @@ Config for apt on [[notes/OS/Ubuntu]]:
 /etc/apt/apt.conf.d/50unattended-upgrades
 ```
 
-To disable auto-updating nvidia / [[cuda]] packages:
+To disable auto-updating nvidia / [[notes/OS/cuda]] packages:
 
 ```
 // Python regular expressions, matching packages to exclude from upgrading
