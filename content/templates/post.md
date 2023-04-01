@@ -1,4 +1,6 @@
 ---
 title: "{{title}}"
-tags: null
+date: "{{date}} {{time}}"
+tags:
+  - 
 ---

@@ -8,6 +8,8 @@ tags:
 - Main list [on GitHub](https://github.com/ibraheemdev/modern-unix)
 - See also [Julia Evan's supplementary list](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/).
 
+One of the first things I install on both [[notes/OS/macOS]] and [[notes/OS/Ubuntu]], because life's to short to not use nice tools.
+
 ## Honorary Mentions
 - [[lsd]], [[notes/tools/exa]]
 - [[ripgrep]], [[fd]], [[sd]]
