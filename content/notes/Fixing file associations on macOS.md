@@ -33,9 +33,9 @@ duti -s com.microsoft.VSCode yml all
 ```
 
 Useful identifiers:
-- `dev.zed.Zed`
-- `com.rstudio.desktop`
-- `com.microsoft.VSCode`
-- `org.videolan.vlc`
+- `dev.zed.Zed` ( haven't used [[Zed]] yet but it's fast and neat)
+- `com.rstudio.desktop` [[RStudio]]
+- `com.microsoft.VSCode` [[VSCode]]
+- `org.videolan.vlc` 
 - `com.apple.TextEdit`
 - `com.apple.Finder`

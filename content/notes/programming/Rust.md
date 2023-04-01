@@ -35,7 +35,7 @@ tags:
 
 Via [rustup], `curl`'ing into `sh` like madlads:
 
-```shell {title="Piping into sh lol"}
+```shell {title="curling into sh lol"}
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
