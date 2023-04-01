@@ -24,4 +24,6 @@ docker: ## Serve locally using Docker
 	docker run -it --volume=$(shell pwd):/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
 
 push: ## git add content/, commit and push
+    # Get content from synced vault and git it
+    rsync -auv ~/Documents/Obsidian/quartz/ ~/repos/github/jemus42/quartz/content/
 	git add content/ && git commit -m "$$(date +%Y%m%d%H%M%S)" && git push
