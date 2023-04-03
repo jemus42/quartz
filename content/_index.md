@@ -1,5 +1,6 @@
 ---
 title: "Quartz Jemu"
+alias: Index
 enableToc: true
 ---
 

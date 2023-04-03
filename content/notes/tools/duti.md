@@ -6,4 +6,4 @@ tags:
 
 https://github.com/moretension/duti
 
-A [[notes/OS/macOS]] file association thingy.
+A [[notes/OS/macOS]] file association thingy, useful for [[notes/Fixing file associations on macOS]].

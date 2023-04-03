@@ -34,9 +34,13 @@ Or setting up [[notes/tools/delta]] for nicer diffs:
     diffFilter = delta --color-only
 ```
 
-Or how to set up GPG signing commits.
+## GPG signing commits
 
-Or how to store credentials securely on Linux (sigh), which I currently do with [[gh]]:
+
+
+## GitHub Credentials
+
+Currently relying on [[gh]] on Linux:
 
 ```
 [credential "https://github.com"]
@@ -45,3 +49,5 @@ Or how to store credentials securely on Linux (sigh), which I currently do with 
 [credential "https://gist.github.com"]
 	helper = !/opt/homebrew/bin/gh auth git-credential
 ```
+
+On [[notes/OS/macOS]] (and presumably Windows), we can use system keychains without any headaches.
