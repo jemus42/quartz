@@ -22,4 +22,4 @@ It looks really promising though, and [[pandoc]] has support for it as of [versi
 - Obligatory "awesome"-list https://github.com/qjcg/awesome-typst
 - A Obsidian plugin https://github.com/fenjalien/obsidian-typst
 	- Might have to keep an eye on that one 👀
-- 
+- A slide template: https://github.com/andreasKroepelin/typst-slides
